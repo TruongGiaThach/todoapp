@@ -30,7 +30,7 @@
  
 -  [Node 16](https://nodejs.org/en/download)
 -  [MongoDb Community Edition](https://www.mongodb.com/docs/manual/installation)
-
+-  [Mongo Compass](https://www.mongodb.com/try/download/compass) --optional
 
 ## Installation
 
