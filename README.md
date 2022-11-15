@@ -26,6 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Requirement before starting
+ 
+-  [Node 16](https://nodejs.org/en/download)
+-  [MongoDb Community Editio](https://www.mongodb.com/docs/manual/installation)
+
+
 ## Installation
 
 ```bash
